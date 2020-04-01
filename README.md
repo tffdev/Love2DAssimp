@@ -1,5 +1,7 @@
 # Love2DAssimp
 
+<img src="https://raw.githubusercontent.com/tfcat/tfcat.github.io/master/files/love2dassimpexample.png" height="300">
+
 ### Compiling:
 1) Download Lua5.1 and Assimp static libraries
 2) Change CMakeLists include and link directories to match your own
